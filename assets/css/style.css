@@ -1,0 +1,13 @@
+*{
+    background-color: lightgreen;
+}
+.hide{
+    display: none;
+}
+
+section {
+    max-width: 600px;
+    margin: 0 auto;
+    
+}
+    
